@@ -1,9 +1,0 @@
-
---This line, and those below, will be ignored--
-
-A    admm_absgeom_lasso_path.m
-A    admm_abssum_lasso_path.m
-A    admm_exact_lasso_path.m
-A    admm_primDR_lasso_path.m
-A    pathDist.m
-A    distPlotLassoFP.m
