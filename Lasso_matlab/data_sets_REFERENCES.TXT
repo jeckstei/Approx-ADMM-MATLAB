@@ -1,0 +1,23 @@
+http://www.select.cs.cmu.edu/projects/shotgun/datasets/lasso/REFERENCES.TXT
+
+These datasets are from following sources.
+
+# finance1000.mat
+Dataset created by Yucheng Low from unigram predictors, by removing such unigrams that had over 1000 occurences. Reference:
+Kogan, S., Levin, D., Routledge, B.R., Sagi, J.S., and Smith, N.A. Predicting risk from financial reports with regression. In Human Language Tech.-NAACL, 2009.
+
+# Mug32_singlepixcam.mat
+# Mug128_singlepixcam.mat
+# Logo64_singlepixcam.mat
+# Ball64_singlepixcam.mat
+
+From the Single-Pixel Camera project.
+Duarte, M.F., Davenport, M.A., Takhar, D., Laska, J.N., Sun, T., Kelly, K.F., and Baraniuk, R.G  Single-pixel imaging via compressive sampling. Signal Processing Magazine, IEEE, 25(2), 2008.
+
+# mug05*, peppers_*
+These datasets were created by Aapo Kyrola based on images used in the Single-Pixel Camera Project. However, the measurement matrices are not the same used by the project but generated randomly.
+
+# Sparco*
+
+From the Sparco test suite.
+van den Berg, E., Friedlander, M.P., Hennenfent, G., Her- rmann, F., Saab, R., and Yılmaz, O. Sparco: A testing framework for sparse reconstruction. ACM Transactions on Mathematical Software, 35(4), 2009.

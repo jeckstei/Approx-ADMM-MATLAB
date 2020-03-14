@@ -1,0 +1,17 @@
+datasets.mat: contains all the cancer datasets we use for tests.
+
+cancer_datasets.mat: contains datasets.mat plus numerical results for normalized data those parameters:
+                     c = 1
+                     1/c = 0.1
+                     sigma = 0.99
+                     ita = 1
+                     beta = 10
+                     epsilon = 1e-6
+
+cancer_datasets_without_norm.mat: contains datasets.mat and numerical results for original datasets (without normalization)
+                                c = 100
+                                1/c = 0.01
+                                sigma = 0.99
+                                ita = 1
+                                beta = 10
+                                epsilon = 1e-6
