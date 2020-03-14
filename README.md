@@ -1,5 +1,5 @@
 # Approx-ADMM-MATLAB
-Code used for the following papers on approximate ADMM methods:
+MATLAB code and data files used for the following papers on approximate ADMM methods:
 
 Jonathan Eckstein and Wang Yao.  “Relative-error approximate versions of Douglas-Rachford splitting and special cases of the ADMM,” Mathematical Programming 170(2):417-444 (2018).
 
