@@ -5,6 +5,6 @@ Jonathan Eckstein and Wang Yao.  “Relative-error approximate versions of Dougl
 
 Jonathan Eckstein and Wang Yao.  “Approximate ADMM Algorithms Derived from Lagrangian Splitting,” Computational Optimization and Applications 68(2):363-405 (2017).
 
-This code has not been full cleaned/up and vetted.
+This code has not been fully cleaned/up and vetted.
 
 The data file for PEMS is currently omitted because it exceeds GitHub's size limits.
